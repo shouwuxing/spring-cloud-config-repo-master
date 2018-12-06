@@ -5,6 +5,6 @@ cloud:
   sample:
     msg: hello
 
-#ribbon:
-#  eureka:
-#    enabled: true
+ribbon:
+  eureka:
+    enabled: true
