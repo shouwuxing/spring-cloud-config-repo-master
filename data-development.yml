@@ -5,4 +5,4 @@
 #    password: 12345678
 cloud:
   config:
-    test: msg-development-zzx
+    test: msg-development-zzx112
